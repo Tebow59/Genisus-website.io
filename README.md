@@ -15,9 +15,9 @@
       <li>What are the army numbers of both sides?</li>
       <li>What are the goals of Ukraine and Russia?</li>
       <li>Does this have potential of becoming a world war?</li>
-                   <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
+             <li>Why is Russia moving so aggressively against Ukraine right now?</li>
+      <li>Would American troops be involved in fighting?</li>
+      <li>What would a Russian victory over Ukraine look like?</li>
+      <li>Is there any chance that Ukraine can put up a fight against Russia?</li>
     </ul>
-      <p> ok </p>
+     
