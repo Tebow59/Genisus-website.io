@@ -20,5 +20,5 @@
       <li>What would a Russian victory over Ukraine look like?</li>
       <li>Is there any chance that Ukraine can put up a fight against Russia?</li>
     </ul>
-      <p>So let's get started. What started the war?  </p>
+      <p>So let's get started. What started the war? Well Ukraine is the main transit routes for oil and gas to other european countries, so the surrounding countries have to pay a lot of money to Ukraine.  </p>
      <p> Next question, What are 
